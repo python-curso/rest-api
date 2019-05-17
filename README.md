@@ -31,7 +31,7 @@ Em terceiro, vamos para a mão na massa!
 
 * SQLite
 
-Nesse exemplo vamos utilizar o SQLite como banco de dados, para que você consiga acessar o banco com a tabela user que vamos utilizar basta baixar por esse link aqui: link
+Nesse exemplo vamos utilizar o SQLite como banco de dados, para que você consiga acessar o banco com a tabela user que vamos utilizar basta baixar por esse link [aqui](https://github.com/python-curso/rest-api/raw/master/exemplo.db).
 
 O nome do arquivo de banco de dados é exemplo.db que ficará na raiz do seu projeto.
 
@@ -191,7 +191,10 @@ Para executar o projeto é bem simples, basta utilizar o comando via terminal na
 $ python server.py run
 ~~~
 
-Para visualizar o projeto completo acesse:
+Para visualizar o projeto completo acesse repositório do github e fique à vontade para brincar o quanto quiser:
+
+[Repositório Github](https://github.com/python-curso/rest-api/)
+
 
 
 
