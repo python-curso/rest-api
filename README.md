@@ -191,9 +191,10 @@ Para executar o projeto é bem simples, basta utilizar o comando via terminal na
 $ python server.py run
 ~~~
 
-Para visualizar o projeto completo acesse repositório do github e fique à vontade para brincar o quanto quiser:
+Para visualizar o projeto completo acesse repositório do Github ou do Gitlab e fique à vontade para brincar o quanto quiser:
 
 [Repositório Github](https://github.com/python-curso/rest-api/)
+ | [Repositório Gitlab](https://gitlab.com/python-curso/rest-api)
 
 
 
